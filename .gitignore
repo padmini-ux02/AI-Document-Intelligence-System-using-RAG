@@ -1,0 +1,8 @@
+.venv/
+venv/
+__pycache__/
+*.pyc
+.env
+nexus_sessions/
+.streamlit/
+*.log

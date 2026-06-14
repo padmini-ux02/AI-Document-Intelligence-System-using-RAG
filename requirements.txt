@@ -1,0 +1,15 @@
+streamlit
+langchain
+langchain-text-splitters
+langchain-community
+langchain-openai
+langchain-core
+pypdf
+docx2txt
+python-dotenv
+tiktoken
+scikit-learn
+pandas
+numpy
+faiss-cpu
+spacy
